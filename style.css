@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://myventurepad.com/wp-content/uploads/2017/11/corporate.jpg);
+    background-size: cover;
+}
+
+.contact-form{
+    background:rgba(0,0,0,.8);
+    color: white;
+    margin-top: 100px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px;
+}
+
+tr{
+    color: white;
+}
